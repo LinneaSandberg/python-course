@@ -45,7 +45,7 @@ Write a Python program to count the median of a list of numbers.
 
 Write a Python program to count the variance of a list of numbers. 
 
-Write a Python program to access a specific element at a given index of a list. (Without using the built in operator/method [].) 
+Write a Python program to access a specific element at a given index of a list.
 
 ## Hard
 
@@ -53,7 +53,7 @@ Write a Python program that computes the median absolute deviation (MAD) of an i
 
 Write a Python program to remove duplicates from a list. 
 
-Write a Python program to generate all sublists of a list. 
+Write a Python program to generate all sublist of a list. 
 
 
 # 3. Strings

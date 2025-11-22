@@ -24,7 +24,7 @@ def greatest_common_divisor(num1, num2):
     return math.gcd(num1, num2)
 
 num1, num2 = 74, 56
-print(f"The GCP of {num1} and {num2} are {greatest_common_divisor(num1, num2)}")
+print(f"The GCP of {num1} and {num2} is {greatest_common_divisor(num1, num2)}")
 
 
 # TODO: Write a Python program to find the least common multiple (LCM) of two positive integers.
@@ -32,4 +32,4 @@ def least_common_multiple(num1, num2):
     return math.lcm(num1, num2)
 
 num1, num2 = 5, 32
-print(f"The LCM of {num1} and {num2} are {least_common_multiple(num1, num2)}")
+print(f"The LCM of {num1} and {num2} is {least_common_multiple(num1, num2)}")
